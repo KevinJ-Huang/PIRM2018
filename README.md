@@ -1,6 +1,8 @@
 # PIRM2018
 Track B
 
+### The newest code is move to https://github.com/MTlab/ECCV_PIRM_2018, for more imformation, please visit this website. 
+
 
 #### 1. You need to use a checkpoint file to save your model and a dataset file to  place your dataset.
 
